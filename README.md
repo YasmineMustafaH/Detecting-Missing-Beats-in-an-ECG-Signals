@@ -1,2 +1,3 @@
-# Detecting-Missing-Beats-in-an-ECG-Signals
-Patients with Sinus Arrest have missing beats in their ECG signal which can be detected using this algorithm.
+# Detecting QRS. 
+The code takes as input an ECG signal to process. The function return a vector that contains the timestamps 
+of the R wave and a vector that contains the corresponding RR intervals. 
