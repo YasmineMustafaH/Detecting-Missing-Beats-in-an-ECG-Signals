@@ -1,0 +1,10 @@
+The smaller the N the sharper the peaks of the R waves, making it easier 
+to detect them and making the signal smoother. 
+
+When the peak of the R wave begins to have fluctuations (not sharp), that means
+the N needs to be decreased. 
+
+Also, a very small N will make the R waves look like lines, making the flow of 
+the signal disappear. 
+
+In our signal dataN.txt, N = 25 gave a smooth signal with good sharps.
